@@ -79,5 +79,7 @@ We evaluate the model using:
 
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
-python main.py
+`or`
+pip install -r requirements.txt
+`run cell one by one in  jupyter notebook or vs code`
 ```
